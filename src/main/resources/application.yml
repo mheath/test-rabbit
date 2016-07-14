@@ -1,0 +1,8 @@
+#---
+#spring:
+#  rabbitmq:
+#    addresses: 10.10.38.8,10.10.102.8
+#    username: cd1c6bb8-491d-4226-97fb-a645e43b4b0d
+#    password: 89qkv63lk0a9ulibs3bpenklst
+#    ssl:
+#      enabled: true
